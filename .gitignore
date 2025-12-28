@@ -2,3 +2,4 @@
 /helloWorld.dSYM
 *.dSYM/
 bin/
+*.out
